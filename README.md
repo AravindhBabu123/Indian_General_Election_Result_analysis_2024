@@ -14,17 +14,30 @@ It provides alliance-wise, state-wise, and constituency-level insights to unders
 
 ---
 
-## 🖼️ Dashboard Preview  
+## 🖼️ Dashboard Preview 
+### 🔹 Home Dashboards
+![Home Dashboard](Indian_General_Election_Analysis_2024/Images/Home.png)  
+
 ### 🔹 Overview Dashboard  
-![Overview Dashboard](Images/overview_dashboard.png)  
+![Overview Dashboard](Indian_General_Election_Analysis_2024/Images/Overview_analysis.png)  
+
+### 🔹 Political Landscape by State 
+![Political Landscape by State Dashboard1](Indian_General_Election_Analysis_2024/Images/Political_Landscape_by_State.png) 
 
 ### 🔹 State Analysis  
-![State Dashboard](Images/state_analysis.png)  
+![State Dashboard1](Indian_General_Election_Analysis_2024/Images/State_Demographic_Analysis1.png)  
+![State Dashboard2](Indian_General_Election_Analysis_2024/Images/State_Demographic_Analysis2.png)  
 
 ### 🔹 Constituency Analysis  
-![Constituency Dashboard](Images/constituency_analysis.png)  
+![Constituency Dashboard](Indian_General_Election_Analysis_2024/Images/Constituency_Analysis.png)  
+
+### 🔹 Detail Grid
+![Detail Grid Dashboard](Indian_General_Election_Analysis_2024/Images/Detail_Grid.png)  
 
 ---
+
+## 🖼️ Dashboard
+![Dashboard]
 
 ## 📊 Dashboards & Key Insights  
 
