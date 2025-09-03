@@ -1,85 +1,37 @@
-2024 Indian General Election Analysis – Power BI Dashboard
-Project Overview
+# 🗳️ 2024 Indian General Election Analysis – Power BI Dashboard  
 
-This project presents an end-to-end analysis of the 2024 Indian General Election using Power BI.
-The dashboard suite provides insights into overall outcomes, alliance-wise performance, state-level demographics, constituency results, and detailed drill-through capabilities.
-The aim is to enable political analysts, researchers, and the general public to better understand the electoral landscape.
+## 📌 Project Overview  
+This project analyzes the **2024 Indian General Election Results** using Power BI.  
+It provides alliance-wise, state-wise, and constituency-level insights to understand the political landscape and performance of NDA, I.N.D.I.A., and other parties.  
 
------------
+---
 
-Dashboards and Features
-1. Overview Analysis
+## 🛠️ Tools & Technologies  
+- Power BI – Dashboard design & visualization  
+- DAX – KPI calculations and measures  
+- Excel / SQL – Data preprocessing  
+- Data Modeling & Visualization  
 
-Total seats won by NDA, I.N.D.I.A., and other/independent candidates.
+---
 
-Percentage share of seats for each alliance.
+## 🖼️ Dashboard Preview  
+### 🔹 Overview Dashboard  
+![Overview Dashboard](Images/overview_dashboard.png)  
 
-Alliance-level detailed tables with seat distribution.
+### 🔹 State Analysis  
+![State Dashboard](Images/state_analysis.png)  
 
-Party-wise breakdown of seats within alliances, including logos.
+### 🔹 Constituency Analysis  
+![Constituency Dashboard](Images/constituency_analysis.png)  
 
----------
+---
 
-2. State Demographic Analysis
+## 📊 Dashboards & Key Insights  
 
-State-wise breakdown of total seats, NDA seats, I.N.D.I.A. seats, and majority alliance.
+- **Overview Analysis**: Seats won by NDA, I.N.D.I.A., and others with percentage share  
+- **State Demographic Analysis**: State-wise seat distribution, majority alliance, and winning candidates  
+- **Political Landscape by State**: Party-wise seat share and comparative analysis  
+- **Constituency Analysis**: Winning candidate, runner-up, vote share, and margin of victory  
+- **Detailed Grid**: Tabular breakdown with drill-through and export options  
 
-Interactive map visualization with drill-through to detailed tables.
-
-Winning candidate and party by constituency with margin of victory.
-
-Identification of states with maximum seats for each alliance.
-
----------
-
-3. Political Landscape by State
-
-State-level performance of NDA, I.N.D.I.A., and independent parties.
-
-Party-wise seat share with grid and donut chart.
-
-Comparative visualization of seat distribution within the selected state.
-
---------
-
-4. Constituency Analysis
-
-Voter turnout and candidate performance at the constituency level.
-
-Winning candidate, runner-up, and second runner-up with votes and margins.
-
-Vote share percentages for top candidates.
-
----------
-
-5. Detailed Grid
-
-Comprehensive tabular view of results at the constituency level.
-
-Fields include constituency, candidates, parties, alliances, votes (EVM and postal), and margins.
-
-Drill-through from other dashboards for deeper analysis.
-
-Data export option for external reporting.
-
--------
-
-6. Landing Page
-
-Central navigation hub for all dashboards.
-
-Interactive menu with links to Overview, State Demographics, Political Landscape, and Constituency dashboards.
-
-Consistent design with home button on each page for smooth navigation.
-
---------
-
-Tools and Skills
-
-Power BI for dashboard creation
-
-DAX for KPI calculations and measures
-
-Excel / SQL for data preprocessing
-
-Data Modeling & Visualization for structured insights
+---
