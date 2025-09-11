@@ -36,11 +36,6 @@ It provides alliance-wise, state-wise, and constituency-level insights to unders
 
 ---
 
-## 🖼️ Dashboard
-![Dashboard](Indian_General_Election_Analysis_2024/PowerBI/2024_Indian_general_election_dashboard.pbix)
-
----
-
 ## 📊 Dashboards & Key Insights  
 
 ---
@@ -50,9 +45,8 @@ It provides alliance-wise, state-wise, and constituency-level insights to unders
 - **Political Landscape by State**: Party-wise seat share and comparative analysis  
 - **Constituency Analysis**: Winning candidate, runner-up, vote share, and margin of victory  
 - **Detailed Grid**: Tabular breakdown with drill-through and export options
-- 
 - ---
-- 
+
 - 👤 Author : Aravindh Babu
 
 📧 Email: aravindhbabu12@gmail.com
